@@ -21,3 +21,9 @@ def fahr_to_kelvin(fahr):
     """
     kelvin = fahr_to_celsius(fahr) + 273.15
     return kelvin
+def inches_to_mm(inches):
+
+
+
+    mm = inches * 25.4
+    return mm
